@@ -4,7 +4,7 @@
 https://comp.probspace.com/competitions/kaokore_status
 
 ## Result
-- 28th Bronze
+- 28th, bronze
 - Public LB: 0.862, Private LB: 0.858
 
 ## model
